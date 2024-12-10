@@ -1,6 +1,6 @@
 # Azure SIEM Lab
 <h2>Description</h2>
-This project consists of a building my own Security Operations Center by deploying a SIEM that monitors and generates alerts for all the devices within the home lab. I also set up a threat intelligence feed that sends IOCs to the SIEM.
+This project consists of a building my own Security Operations Center by deploying a SIEM that monitors and generates alerts for all the virtual machine devices within the home lab.
 <br />
 
 <h2>Environments and Utilities</h2>
